@@ -1,0 +1,37 @@
+PODS:
+  - BrightFutures (6.0.1):
+    - Result (~> 3.2.4)
+  - Result (3.2.4)
+  - SceneKitVideoRecorder (1.5.1):
+    - BrightFutures
+  - SensingKit (0.5.1)
+
+DEPENDENCIES:
+  - SceneKitVideoRecorder (from `https://github.com/svtek/SceneKitVideoRecorder.git`, branch `swift4`)
+  - SensingKit (from `https://github.com/SensingKit/SensingKit-iOS.git`, branch `next`)
+
+EXTERNAL SOURCES:
+  SceneKitVideoRecorder:
+    :branch: swift4
+    :git: https://github.com/svtek/SceneKitVideoRecorder.git
+  SensingKit:
+    :branch: next
+    :git: https://github.com/SensingKit/SensingKit-iOS.git
+
+CHECKOUT OPTIONS:
+  SceneKitVideoRecorder:
+    :commit: 71e239324b2a0366ab3a499e076f70ced50d7a70
+    :git: https://github.com/svtek/SceneKitVideoRecorder.git
+  SensingKit:
+    :commit: d59995ff5cd9081d2c6072c4633f609b1e41ca82
+    :git: https://github.com/SensingKit/SensingKit-iOS.git
+
+SPEC CHECKSUMS:
+  BrightFutures: 9c03dab79e73ffe504b7bafc15c5bfdaeee54890
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SceneKitVideoRecorder: a8b42606f488c2c8cab6be622201d5036c1bd12d
+  SensingKit: 037b5f524bf0ddc00e14043a1aacb4a4122578bb
+
+PODFILE CHECKSUM: ea897ef225e1e6ff56590ef208fb48296b2ab18f
+
+COCOAPODS: 1.4.0
