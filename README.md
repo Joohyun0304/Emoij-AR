@@ -8,3 +8,7 @@ App available on the app store : https://itunes.apple.com/us/app/emoj-ar/id13778
 
 
 <img width="1201" alt="main" src="https://user-images.githubusercontent.com/31669188/43782546-9f9b9352-9a2d-11e8-8dbf-b7d0915b0835.png">
+
+
+
+[Demo](https://vimeo.com/266682720)
