@@ -1,6 +1,5 @@
 # Emoij-AR
 
-Augmented reality mobile app for emoji lovers. 
 
 Developed with Swift with AR kit and Sensing kit. 
 
